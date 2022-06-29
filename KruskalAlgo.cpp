@@ -54,6 +54,8 @@ void uni(int u, int v, vector<int> &rank, vector<int> &parent)
 }
 int main()
 {
+    
+    
     int n, m;
     cin >> n >> m;
     vector<node> edges;
